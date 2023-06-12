@@ -19,7 +19,7 @@
 ## Exam Registrations 
 * Registrations are normally available before two months before each exam series.
 * Registrations can be done via <b>[British Council Sri Lanka](https://www.britishcouncil.lk/exam/school-exams)
-'s website</b> which is mentioned above under "<b>sources</b>".
+'s website</b>.
 
 <p>will update the site if any more information is needed :) <p> 
 
