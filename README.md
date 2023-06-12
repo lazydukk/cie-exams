@@ -1,5 +1,5 @@
 # CIE (Cambridge) AS & A Levels
-(PLease be kind enough to refer to the cambridge international website thats linked below to clarify the informations)
+(Please be kind enough to refer to the cambridge international website, thats linked below to clarify the information)
 <br>
 
 #### sources: 
