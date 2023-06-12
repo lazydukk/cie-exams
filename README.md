@@ -1,5 +1,5 @@
 # CIE (Cambridge) AS & A Levels
-(PLease be kind to refer to the cambridge international website thats linked below to clarify the informations)
+(PLease be kind enough to refer to the cambridge international website thats linked below to clarify the informations)
 <br>
 
 #### sources: 
@@ -19,4 +19,6 @@
 ## Exam Registrations 
 * Registrations are normally available before two months before each exam series.
 * Registrations can be done via <b>British Council Sri Lanka's website</b> which is mentioned above under "<b>sources</b>".
+
+<p>will update the site if any more information is needed :) <p> 
 
