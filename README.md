@@ -24,6 +24,10 @@
 ## Past Papers
 * [gceguide.com](https://papers.gceguide.com/)
 
+## Resources 
+* [Free Exam Academy](https://www.freeexamacademy.com) `notes`
+* [O/A-Level Mathematics](https://www.youtube.com/@OA-LevelMathematics) `videos@yt`
+
 
 <p>will update the site if any more information is needed :) <p> 
 
