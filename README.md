@@ -21,5 +21,9 @@
 * Registrations can be done via <b>[British Council Sri Lanka](https://www.britishcouncil.lk/exam/school-exams)
 's website</b>.
 
+## Past Papers
+* [gceguide.com](https://papers.gceguide.com/)
+
+
 <p>will update the site if any more information is needed :) <p> 
 
