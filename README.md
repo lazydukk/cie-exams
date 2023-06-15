@@ -1,5 +1,5 @@
 # CIE (Cambridge) AS & A Levels
-(Please be kind enough to refer to the cambridge international website, thats linked below to clarify the information)
+(Please be kind enough to refer to the Cambridge international website, that’s linked below to clarify the information)
 <br>
 
 #### sources: 
@@ -8,14 +8,14 @@
 
 ## Subjects
 * [Subjects available](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/subjects/)
-* Different univercities and their course requires different subjects in each streams. 
-* Normally students do 3 subjects from  their preffered stream. But can do up tp 5 subjects.
+* Different universities and their course requires different subjects in each streams. 
+* Normally students do 3 subjects from  their preferred stream. But can do up to 5 subjects.
 
 ## Syllabus 
 * Make sure to read the 'Syllabus Guide' provided by the CIE
     * examples: [Mathematics 9707](https://www.cambridgeinternational.org/Images/597421-2023-2025-syllabus.pdf)
     * [More info about the subject](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-mathematics-9709/)
-<br />
+
     ![image](https://github.com/lazydukk/a.levels/assets/114676073/81453686-b87f-47d1-ad63-68851d62babe)
 
 
@@ -30,7 +30,7 @@
 's website</b>.
 
 ## Past Papers
-* [gceguide.com](https://papers.gceguide.com/)
+* [gceguide.com](https://papers.gceguide.com/) (`past papers`)
 * Please make sure to choose the right paper with reference to the subject code, and relavent paper type (examples: 2010/12 such as)
 
 ## Resources 
