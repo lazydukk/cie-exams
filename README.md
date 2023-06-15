@@ -15,7 +15,7 @@
 * Make sure to read the 'Syllabus Guide' provided by the CIE
     * examples: [Mathematics 9707](https://www.cambridgeinternational.org/Images/597421-2023-2025-syllabus.pdf)
     * [More info about the subject](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-mathematics-9709/)
-<br>
+<br />
     ![image](https://github.com/lazydukk/a.levels/assets/114676073/81453686-b87f-47d1-ad63-68851d62babe)
 
 
