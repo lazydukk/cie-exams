@@ -26,3 +26,6 @@
 
 <p>will update the site if any more information is needed :) <p> 
 
+---
+# Misc
+* [Susan Rigetti | Physics](https://www.susanrigetti.com/physics)
