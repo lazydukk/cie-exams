@@ -22,7 +22,7 @@
 
  --- 
 ##### O Level
--  [Physics & Maths Tutor](https://www.physicsandmathstutor.com/chemistry-revision/igcse-cie/) (`notes`)                                                             *recommended
+-  [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) (`notes`)                                                             *recommended
 - [CIE Notes](https://www.cienotes.com/) (`notes)
 - [ZNotes - For Students. By Students.](https://znotes.org/caie/igcse/) (`notes / revision guides`)    *recommended
 * [Free Exam Academy](https://www.freeexamacademy.com) (`notes`)
