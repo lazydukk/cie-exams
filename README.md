@@ -14,6 +14,7 @@
 
 ## Resources 
 ##### A Level
+ - [Physics & Maths Tutor](https://www.physicsandmathstutor.com/chemistry-revision/igcse-cie/) (`notes`)
 * [gceguide.com](https://papers.gceguide.com/) (`past papers`)
 * [Eddie Woo (Mathematics)](https://www.youtube.com/@misterwootube) (`videos@yt`)
 * [chemrevise](https://chemrevise.org/) (`chemistry rev notes`)
@@ -21,11 +22,16 @@
 
  --- 
 ##### O Level
+-  [Physics & Maths Tutor](https://www.physicsandmathstutor.com/chemistry-revision/igcse-cie/) (`notes`)                                                             *recommended
+- [CIE Notes](https://www.cienotes.com/) (`notes)
+- [ZNotes - For Students. By Students.](https://znotes.org/caie/igcse/) (`notes / revision guides`)    *recommended
 * [Free Exam Academy](https://www.freeexamacademy.com) (`notes`)
 * [O/A-Level Mathematics](https://www.youtube.com/@OA-LevelMathematics) (`videos@yt`)
+* [StudyVaults \| Free IGCSE notes](https://www.studyvaults.com/) (`notes`)
 
-<p>will update the site if any more information is needed :) <p> 
+
+will update the site if any more information is needed :)
 
 ---
-# Misc
-* [Susan Rigetti | Physics](https://www.susanrigetti.com/physics)
+### Misc
+[Susan Rigetti | Physics](https://www.susanrigetti.com/physics)
