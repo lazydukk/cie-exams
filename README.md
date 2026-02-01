@@ -35,3 +35,9 @@ will update the site if any more information is needed :)
 ---
 ### Misc
 [Susan Rigetti | Physics](https://www.susanrigetti.com/physics)
+[Professor Leonard - YouTube](https://www.youtube.com/@ProfessorLeonard) (`videos/maths)
+
+>[!tip]
+>Use [Khan Academy](https://www.khanacademy.org/) for a **guided learning path**;
+
+- Refer to text books at all times;
